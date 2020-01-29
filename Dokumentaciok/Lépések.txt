@@ -1,0 +1,7 @@
+1) ZaroDolgozat Github repo létrehozása
+2) Visual Studio - UserProject project létrehozása
+3) Eddig elkészült dokumentációk feltöltése Github-ra (Projecten belül egy Documents mappa?)
+4) VS - Projectben mappaszerkezet kialakítása (Model, View, Repository, Interface, Presenter...)
+5) Elkészített MySQL adatbázis (https://www.youtube.com/watch?time_continue=8&v=hDXMi2EpsEI videó alapján) kapcsolat létrehozása (model legenerálódik autómatikusan)
+6) Bejelentkezõ oldal elkészítése, hozzá tartozó backend oldal lekódolása (egy main formot hozzon be amin lesz felül a menüsáv, középpen a tartalom)
+7) Main form kialakítása (Menü elkészítése, hogy legyen? Fix panelma nyissak meg uij formot? van jobb megoldás? https://stackoverflow.com/questions/6593958/how-to-display-form-within-another-form-when-i-click-the-menu-item)
