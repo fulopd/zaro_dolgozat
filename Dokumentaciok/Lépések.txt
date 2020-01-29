@@ -1,4 +1,4 @@
-1) ZaroDolgozat Github repo létrehozása
+1) ZaroDolgozat Github repo létrehozása - Kész
 2) Visual Studio - UserProject project létrehozása
 3) Eddig elkészült dokumentációk feltöltése Github-ra (Projecten belül egy Documents mappa?)
 4) VS - Projectben mappaszerkezet kialakítása (Model, View, Repository, Interface, Presenter...)
